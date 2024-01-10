@@ -14,3 +14,7 @@ Computer vision project for face, eye, pedestrian, and car detection involves le
 ## 3 - Pedestrian Detection
 
 ![crowd](https://github.com/Rokade-DP/Face_and_Eye_Detection-Car_and_-Pedestrian_Detection__Using_Computer_Vision-/assets/78254342/ad161f62-f6af-4dcd-a795-678a4635ff79)
+
+
+### Author:
+**Dhananjay Rokade**
